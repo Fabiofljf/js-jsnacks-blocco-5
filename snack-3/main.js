@@ -4,5 +4,4 @@ function revString(parola) {
     return parola.split("").reverse().join("");
 }
 
-revString('ciao')
 console.log(revString('ciao'));
